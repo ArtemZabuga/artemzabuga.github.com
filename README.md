@@ -1,2 +1,2 @@
-# artemzabuga.github.com
+# artemzabuga.github.io
 My Web Development Education
